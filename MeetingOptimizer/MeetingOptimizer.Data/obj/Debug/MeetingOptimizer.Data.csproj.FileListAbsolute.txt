@@ -1,0 +1,10 @@
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\MeetingOptimizer.Data.dll.config
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\MeetingOptimizer.Data.dll
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\MeetingOptimizer.Data.pdb
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\EntityFramework.dll
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\EntityFramework.xml
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\obj\Debug\MeetingOptimizer.Data.csprojResolveAssemblyReference.cache
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\obj\Debug\MeetingOptimizer.Data.dll
+C:\github\meetingoptimizer\server\MeetingOptimizer\MeetingOptimizer.Data\obj\Debug\MeetingOptimizer.Data.pdb
